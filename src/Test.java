@@ -2,7 +2,7 @@ public class Test {
 
     public static void main( String[] args ) {
 
-        System.out.println( "Modify this message!!!" );
+        System.out.println( "Done! :D" );
 
     }
 }
